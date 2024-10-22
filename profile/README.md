@@ -1,5 +1,7 @@
 # POPUP-ING, POPPING / 팝업은 현재 진행중, 팝핑
 > 브레인 임팩트의 사이드 임팩트에서 스파크 트랙 1차 통과
+
+
 ![popping thumbnail](https://github.com/popping-official/.github/blob/main/profile/Popping%20Thumbnail.png)
 
 ## About POPPING
