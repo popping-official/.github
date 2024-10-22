@@ -1,4 +1,5 @@
 # POPUP-ING, POPPING / 팝업은 현재 진행중, 팝핑
+> 브레인 임팩트의 사이드 임팩트에서 스파크 트랙 1차 통과
 ![popping thumbnail](https://github.com/popping-official/.github/blob/main/profile/Popping%20Thumbnail.png)
 
 ## About POPPING
@@ -15,17 +16,32 @@
 궁극적으로, 저희 팝핑은 사용자들이 새로운 팝업스토어 경험을 얻고, 브랜드들이 지속 가능한 성장을 이룰 수 있도록 지원합니다.
 ```
 
+
+## Introduction
+> 저희 서비스는 팝업을 이용하고자 하는 Popple 회원과 팝업을 개최하고자 하는 Popper 회원으로 이루어져 있습니다.
+> 
+> 본인의 목적에 맞게 회원 가입을 하고 이용해 주세요. 
+> 팝업 지도를 통해 오프라인 팝업 정보와 주변 맛집, 즐길거리 등을 종합적으로 확인하실 수 있습니다.
+> 
+> 또한, 본인이 관심 있는 팝업이나 브랜드를 팔로우하여 저장함으로써 지속적인 정보를 공유받을 수 있습니다.
+> 
+> 팝업 지도는 현재 위치 기반으로 제공되는 서비스입니다. 위치 동의를 해 주세요.
+> 
+> 온라인 팝업스토어는 실제 서비스가 시작된 후 브랜드와 협의하여 진행하는 서비스입니다. 현재는 임의 데이터임을 참고해 주세요.
+
+
 ## Used Stacks
 ![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,python,mongodb,mysql,redis,nginx,docker)
 
 
 ## Collaborators
-### Backend
+### Developop (팝콘처럼 팡팡 튀는 매력의 청년들)
+### - Backend
 <img src="https://github.com/user-attachments/assets/84a9b482-c4ef-4ae9-9007-e641977be5ba" width="150" height="150" />
 <img src="https://github.com/user-attachments/assets/c9288b95-552e-4b23-8181-1c9f95fb4698" width="150" height="150" />
 <img src="https://github.com/user-attachments/assets/a3afd884-0893-4da6-a527-d1be0d2105b5" width="150" height="150" />
 
-### Frontend
+### - Frontend
 <img src="https://github.com/user-attachments/assets/cffc587a-a065-48e8-8dc8-4d52df1c4360" width="150" height="150" />
 <img src="https://github.com/user-attachments/assets/03d5c52e-882a-4b13-883b-07e2933caf4c" width="150" height="150" />
 
