@@ -4,6 +4,9 @@
 
 ![popping thumbnail](https://github.com/popping-official/.github/blob/main/profile/Popping%20Thumbnail.png)
 
+[![USED STACKS](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/popping.app/)
+
+
 ## About POPPING
 ```planetext
 현재 오프라인 팝업스토어는 기업의 주요 마케팅 전략으로 자리 잡으며 그 수가 지속적으로 증가하고 있지만,
