@@ -35,7 +35,7 @@
 > 온라인 팝업스토어는 실제 서비스가 시작된 후 브랜드와 협의하여 진행하는 서비스입니다. 현재는 임의 데이터임을 참고해 주세요.
 
 
-## Used Stacks
+## Used Stack
 ![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,python,mongodb,mysql,redis,nginx,docker)
 
 
@@ -52,8 +52,8 @@
 | Team Members | Role | Responsibility |
 |:---:|:---:|:---:|
 | [<img src="https://github.com/user-attachments/assets/84a9b482-c4ef-4ae9-9007-e641977be5ba" width="150" height="150" />](https://github.com/Jeongmingz) | 팀장,  | |
-| [<img src="https://github.com/user-attachments/assets/cffc587a-a065-48e8-8dc8-4d52df1c4360" width="150" height="150" />](https://github.com/HarenKei) | | |
-| [<img src="https://github.com/user-attachments/assets/03d5c52e-882a-4b13-883b-07e2933caf4c" width="150" height="150" />](https://github.com/hugesilver) | | |
+| [<img src="https://github.com/user-attachments/assets/cffc587a-a065-48e8-8dc8-4d52df1c4360" width="150" height="150" />](https://github.com/hugesilver) | | |
+| [<img src="https://github.com/user-attachments/assets/03d5c52e-882a-4b13-883b-07e2933caf4c" width="150" height="150" />](https://github.com/Harenkei) | | |
 
 ### - Server
 | Team Members | Role | Responsibility |
