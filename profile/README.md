@@ -4,8 +4,6 @@
 
 ![popping thumbnail](https://github.com/popping-official/.github/blob/main/profile/Popping%20Thumbnail.png)
 
-[![USED STACKS](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/popping.app/)
-
 
 ## About POPPING
 ```planetext
