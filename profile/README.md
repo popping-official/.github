@@ -4,6 +4,8 @@
 
 ![popping thumbnail](https://github.com/popping-official/.github/blob/main/profile/Popping%20Thumbnail.png)
 
+<img width="1047" alt="image" src="https://github.com/user-attachments/assets/90a4699a-200c-49d7-80cb-26be58762256" />
+
 
 ## About POPPING
 ```planetext
@@ -35,28 +37,6 @@
 
 ## Used Stack
 ![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,python,mongodb,mysql,redis,nginx,docker)
-
-
-## Collaborators
-### Developop (팝콘처럼 팡팡 튀는 매력의 청년들)
-### - Backend
-| Team Members | Role | Responsibility |
-|:---:|:---:|:---:|
-| [<img src="https://github.com/user-attachments/assets/84a9b482-c4ef-4ae9-9007-e641977be5ba" width="150" height="150" />](https://github.com/Jeongmingz) | 팀장,  | |
-| [<img src="https://github.com/user-attachments/assets/c9288b95-552e-4b23-8181-1c9f95fb4698" width="150" height="150" />](https://github.com/jjjheeee) |  | |
-| [<img src="https://github.com/user-attachments/assets/a3afd884-0893-4da6-a527-d1be0d2105b5" width="150" height="150" />](https://github.com/chanung-ki) | | |
-
-### - Frontend
-| Team Members | Role | Responsibility |
-|:---:|:---:|:---:|
-| [<img src="https://github.com/user-attachments/assets/84a9b482-c4ef-4ae9-9007-e641977be5ba" width="150" height="150" />](https://github.com/Jeongmingz) | 팀장,  | |
-| [<img src="https://github.com/user-attachments/assets/cffc587a-a065-48e8-8dc8-4d52df1c4360" width="150" height="150" />](https://github.com/hugesilver) | | |
-| [<img src="https://github.com/user-attachments/assets/03d5c52e-882a-4b13-883b-07e2933caf4c" width="150" height="150" />](https://github.com/Harenkei) | | |
-
-### - Server
-| Team Members | Role | Responsibility |
-|:---:|:---:|:---:|
-| [<img src="https://github.com/user-attachments/assets/84a9b482-c4ef-4ae9-9007-e641977be5ba" width="150" height="150" />](https://github.com/Jeongmingz) | 팀장,  | |
 
 
 ## Repositories
